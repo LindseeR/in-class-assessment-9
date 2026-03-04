@@ -14,19 +14,17 @@ html {
 /* main layout?*/
 
 .image {
-  height: auto; /*idk if these are right*/
+  height: auto; /*idk why the size is not workingt*/
   width: 100%;
   border-radius: 20px;
-  margin: 0;
 }
 
 .text {
   background-color: #9ddcdf;
   color: #0c2224;
-  text-align: center;
   border-radius: 20px;
   padding: 10px 20px;
-  margin: 0;
+  margin: 0; /*margin top? to seperate from img*/
 }
 
 h1 {
@@ -38,10 +36,10 @@ h1 {
 
 p.quote {
   font-style: italics;
-  font-size: 20px;
+  font-size: 25px;
   text-transform: lowercase; 
-  line-height: 1.5rem;
-  margin: 15px;
+  line-height: 1.5rem; 
+  margin-bottom: 15px;
 }
 
 p.character {
