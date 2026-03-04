@@ -6,7 +6,7 @@
 
 html {
   font-family: open-sans, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   background-color: #cbdf9d;
   text-align: center;
 }
@@ -24,7 +24,7 @@ html {
   color: #0c2224;
   border-radius: 20px;
   padding: 10px 20px;
-  margin: 0; /*margin top? to seperate from img*/
+  margin-top: 0; /*margin top? to seperate from img*/
 }
 
 h1 {
@@ -36,7 +36,7 @@ h1 {
 
 p.quote {
   font-style: italics;
-  font-size: 25px;
+  font-size: 20px;
   text-transform: lowercase; 
   line-height: 1.5rem; 
   margin-bottom: 15px;
