@@ -35,7 +35,7 @@ main {
 .text {
   background-color: #9ddcdf;
   color: #0c2224;
-  padding: 1px 25 px 25px 25px;
+  padding: 25px;
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 0rem;
   font-size: 1rem;
-  margin-top: -4px;
+  margin-top: 0px;
   margin-bottom: 15px;
   color: #013220;
 }
