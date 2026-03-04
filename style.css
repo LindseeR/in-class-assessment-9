@@ -28,15 +28,15 @@ html {
 h1 {
   text-transform: uppercase;
   letter-spacing: 0.5rem;
-  font-size: 2rem;
+  font-size: 35px;
   color: #013220;
 }
 
 p.quote {
   font-style: italics;
-  font-size: 14px;
+  font-size: 20px;
   text-transform: lowercase; 
-  line-height: 0.5rem;
+  line-height: 1.5rem;
   margin: 15px;
 }
   
