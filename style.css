@@ -14,9 +14,9 @@ html {
 /* main layout?*/
 
 .image {
-  height: auto; /*idk why the size is not workingt*/
+  height: auto; 
   width: 100%;
-  border-radius: 20px;
+  border-radius: 200px;
 }
 
 .text {
@@ -35,7 +35,7 @@ h1 {
 }
 
 p.quote {
-  font-style: italics;
+  font-style: italic;
   font-size: 20px;
   text-transform: lowercase; 
   line-height: 1.5rem; 
