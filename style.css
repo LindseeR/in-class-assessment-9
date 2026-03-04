@@ -11,19 +11,17 @@ html {
   text-align: center;
 }
 
-/* main layout?*/
+main {
+  max-width: 400px;
+  margin: 80px auto;
+  border-radius: 20px;
+  overflow: hidden;
+}
 
 .container {
   height: auto; 
   width: 100%;
   margin: 50px auto;
-  border-radius: 20px;
-  overflow: hidden;
-}
-
-main {
-  max-width: 400px;
-  margin: 80px auto;
   border-radius: 20px;
   overflow: hidden;
 }
@@ -37,22 +35,22 @@ main {
 .text {
   background-color: #9ddcdf;
   color: #0c2224;
-  border-radius: 20px 20px;
   padding: 25px;
   text-align: center;
 }
 
 h1 {
   text-transform: uppercase;
-  letter-spacing: 0.2rem;
-  font-size: 1.5rem;
+  letter-spacing: 0rem;
+  font-size: 1rem;
+  margin-top: -4px;
   margin-bottom: 15px;
   color: #013220;
 }
 
 p.quote {
   font-style: italic;
-  font-size: 1rem;
+  font-size: .75rem;
   text-transform: lowercase; 
   line-height: 1.5; 
   margin: 15px;
