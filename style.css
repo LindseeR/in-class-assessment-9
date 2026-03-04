@@ -15,6 +15,7 @@ html {
   height: auto; /*idk if these are right*/
   width: auto;
   border-radius: 30px;
+  margin: 0;
 }
 
 .text {
@@ -23,6 +24,7 @@ html {
   text-align: center;
   border-radius: 30px;
   padding: 10px 20px;
+  margin: 0;
 }
 
 h1 {
@@ -38,6 +40,11 @@ p.quote {
   text-transform: lowercase; 
   line-height: 1.5rem;
   margin: 15px;
+}
+
+p.author {
+  font-style: bold;
+  color: #c28500;
 }
   
   
