@@ -30,6 +30,7 @@ img {
   border-radius: 20px;
   padding: 10px 20px;
   margin-top: -5; /*margin top? to seperate from img*/
+  width: 60;
 }
 
 h1 {
