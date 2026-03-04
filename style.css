@@ -13,30 +13,32 @@ html {
 
 /* main layout?*/
 
-.image {
+.container {
   height: auto; 
   width: 100%;
+  margin: 50px auto;
   border-radius: 20px;
+  overflow: hidden;
 }
 
-img {
-  height: 40;
-  width: 60;
+.image {
+  width: 100%;
+  height: auto; 
 }
 
 .text {
   background-color: #9ddcdf;
   color: #0c2224;
-  border-radius: 20px;
-  padding: 10px 20px;
-  margin-top: -5; /*margin top? to seperate from img*/
-  width: 60;
+  border-radius: 20px 20px;
+  padding: 20px;
+  margin-top: -5;
 }
 
 h1 {
   text-transform: uppercase;
   letter-spacing: 0.25rem;
-  font-size: 30px;
+  font-size: 2rem;
+  margin-bottom: 15px;
   color: #013220;
 }
 
@@ -45,11 +47,11 @@ p.quote {
   font-size: 20px;
   text-transform: lowercase; 
   line-height: 1.5rem; 
-  margin: 5px;
+  margin: 10px 0;
 }
 
 p.character {
-  font-style: bold;
+  font-weight: bold;
   color: #c28500;
 }
   
