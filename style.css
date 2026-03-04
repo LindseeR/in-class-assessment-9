@@ -21,37 +21,46 @@ html {
   overflow: hidden;
 }
 
+main {
+  max-width: 400px;
+  margin: 80px auto;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
 .image {
   width: 100%;
   height: auto; 
+  display: block;
 }
 
 .text {
   background-color: #9ddcdf;
   color: #0c2224;
   border-radius: 20px 20px;
-  padding: 20px;
-  margin-top: -5;
+  padding: 25px;
+  text-align: center;
 }
 
 h1 {
   text-transform: uppercase;
-  letter-spacing: 0.25rem;
-  font-size: 2rem;
+  letter-spacing: 0.2rem;
+  font-size: 1.5rem;
   margin-bottom: 15px;
   color: #013220;
 }
 
 p.quote {
   font-style: italic;
-  font-size: 20px;
+  font-size: 1rem;
   text-transform: lowercase; 
-  line-height: 1.5rem; 
-  margin: 10px 0;
+  line-height: 1.5; 
+  margin: 15px;
 }
 
 p.character {
   font-weight: bold;
+  font-size: 0.9rem;
   color: #c28500;
 }
   
