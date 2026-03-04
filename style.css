@@ -48,7 +48,7 @@ p.quote {
   font-style: italic;
   font-size: .75rem;
   text-transform: lowercase; 
-  line-height: 0.5rem; 
+  line-height: 1rem; 
   margin-bottom: 0.25rem;
 }
 
