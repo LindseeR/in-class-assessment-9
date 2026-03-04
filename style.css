@@ -10,3 +10,17 @@ html {
   background-color: #cbdf9d;
   text-align: center;
 }
+
+.image {
+  height: auto;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.text {
+  background-color: #9ddcdf;
+  color: #0c2224;
+  text-align: center;
+  border-radius: 10px;
+  passing: 10px 20px;
+}
